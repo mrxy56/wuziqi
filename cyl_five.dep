@@ -1,0 +1,16 @@
+# Microsoft Developer Studio Generated Dependency File, included by cyl_five.mak
+
+.\aaa.cpp : \
+	".\watereffect.h"\
+	"c:\vc6\include\basetsd.h"\
+	"c:\vc6\include\easyx.h"\
+	"c:\vc6\include\graphics.h"\
+	
+
+.\Script1.rc : \
+	".\a.bmp"\
+	".\a.jpg"\
+	".\b.bmp"\
+	".\b.jpg"\
+	".\∆Â≈Ã±≥æ∞.jpg"\
+	

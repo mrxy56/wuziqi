@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="default" />
+	<File name="aaa.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="14749" topLine="628" />
+	</File>
+	<File name="drawboard.h" open="0" top="0" tabpos="0">
+		<Cursor position="241" topLine="1" />
+	</File>
+	<File name="getscore.h" open="0" top="0" tabpos="0">
+		<Cursor position="1755" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

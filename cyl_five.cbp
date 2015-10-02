@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="cyl_five" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="cyl_five" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Unit filename="aaa.cpp" />
+		<Unit filename="Script1.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="drawboard.h" />
+		<Unit filename="getscore.h" />
+		<Unit filename="..\test\a.bmp" />
+		<Unit filename="a.jpg" />
+		<Unit filename="b.jpg" />
+		<Unit filename="..\test\icon1.ico" />
+		<Unit filename="." />
+		<Unit filename="1212.wav" />
+		<Unit filename="Release\table1.txt" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
